@@ -28,5 +28,5 @@ https://viewer.diagrams.net/
 <img width="580" height="393" alt="image" src="https://github.com/user-attachments/assets/87635498-0e06-44b3-8b09-ff98711c5cab" />
 
 ## 4. Информация о разработчике
-### Ахмедов О.З.
+### бИПТ-252 Ахмедов О.З.
 
